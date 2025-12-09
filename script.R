@@ -10,3 +10,4 @@ hist( carbon_segment$CO2emissionspercapita,
       col = "lightblue",
       xlab = "CO₂ Emissions Per Capita", 
       main = "Distribution of CO₂ Emissions Per Capita (1983–2008)" )
+
